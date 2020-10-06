@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "I/uRKXRd72m5DOkr3YY8mwJlVDhNdKdHFsMSeWQDDefTVqI1aCusa0GmQ/WGv3NS4jS5N1Tljhw2VjSQngWwXg==",
+  "success": true,
+  "projectFilePath": "D:\\学习\\net\\设计模式\\DesignPatternLearning\\DesignPatternLearning\\DesignPatternLearning.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\admin\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.0.1\\microsoft.aspnetcore.app.ref.3.0.1.nupkg.sha512",
+    "C:\\Users\\admin\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.0.3\\microsoft.netcore.app.host.win-x64.3.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
